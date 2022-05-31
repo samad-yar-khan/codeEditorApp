@@ -1,7 +1,7 @@
 {
     "id": "114061a9-e2d2-4490-8629-40be984cda90",
     "version": "0.0.1",
-    "requiredApiVersion": "^1.4.0",
+    "requiredApiVersion": "^1.19.0",
     "iconFile": "icon.png",
     "author": {
         "name": "Samad Yar Khan",
@@ -11,5 +11,6 @@
     "name": "CodeEditor",
     "nameSlug": "codeeditor",
     "classFile": "CodeEditorApp.ts",
-    "description": "App Allows you to display indented code inside Rocket.Chat"
+    "description": "App Allows you to display indented code inside Rocket.Chat",
+    "implements": []
 }
